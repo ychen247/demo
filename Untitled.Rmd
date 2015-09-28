@@ -15,7 +15,7 @@ summary(cars)
 
 You can also embed plots, for example:
 
-```{r}
+```{r, echo=FALSE, fig.height=7, fig.width=7}
 plot(cars)
 ```
 
